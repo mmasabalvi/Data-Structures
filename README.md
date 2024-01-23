@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Chronicles of DSA
+DSA Playground
