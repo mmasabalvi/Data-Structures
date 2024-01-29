@@ -2,7 +2,7 @@
 This repo is where I hold all of my DSA Programs.
 
 
-Folders:
+***Folders:***
 
 
 **1. Array Operations:**
