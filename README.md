@@ -11,5 +11,4 @@ Folders:
 
 **2. Templates:**
    Contain Programs done through Templates, with their respective Test Cases,
-
-  *Note: A ton of Array Operations are stored here as well.*
+   *Note: A ton of Array Operations are stored here as well.*
