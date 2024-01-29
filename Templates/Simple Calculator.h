@@ -46,3 +46,15 @@ public:
 	}
 
 };
+//--------------------------------------//
+//  Calculator 
+//---------------------------------
+/*
+TEST(CalculatorTest, PerformCalculations) {
+    Calculator<int> intCalculator(5, 2);
+
+    EXPECT_EQ(intCalculator.Addition(), 7);
+    EXPECT_EQ(intCalculator.Subtraction(), 3);
+    EXPECT_EQ(intCalculator.Multiplication(), 10);
+    EXPECT_EQ(intCalculator.Division(), 2);
+}*/
