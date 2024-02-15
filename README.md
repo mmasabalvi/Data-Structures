@@ -12,4 +12,4 @@ This repo is where I hold all of my DSA Programs.
 **2. Templates:**
    Programs done through Templates, with their respective Test Cases.
    
-   *Note: A ton of Array Operations are stored here as well.*
+   *Note: A lot of Array Operations are stored here as well.*
