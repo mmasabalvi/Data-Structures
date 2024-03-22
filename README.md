@@ -2,17 +2,13 @@
 My DSA Programs.
 
 
-***Folders:***
+***Directories:***
 
 
 **1. Array Operations:**
-   Array Programs including insertion, deletion, roation, traversal etc.
+ 
+**2. Linked Lists**   
 
+**3. Queue**
 
-**2. Templates:**
-   Programs done through Templates, with their respective Test Cases.
-   
-   *Note: A lot of Array Operations are stored here as well.*
-
-
-**3. Linked Lists**   
+**4. Stack**
