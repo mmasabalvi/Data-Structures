@@ -5,7 +5,7 @@ My DSA Programs.
 ***Directories:***
 
 
-**1. Array Operations:**
+**1. Array Operations**
  
 **2. Linked Lists**   
 
