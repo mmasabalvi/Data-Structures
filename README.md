@@ -10,4 +10,8 @@
 
 **3. Queue**
 
-**4. Stack**
+**4. Stacks**
+
+**5. BSTs**
+
+**6. AVLs**
