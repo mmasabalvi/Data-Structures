@@ -7,6 +7,8 @@ context:
 • Addition with different characters: ab + ba = abba
 • Subtraction with exact matches: ab − ab = ””
 • Subtraction with different characters: ab − ba = ”abba”*/
+
+
 #include<iostream>
 using namespace std;
 
