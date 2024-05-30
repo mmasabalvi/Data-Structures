@@ -1,5 +1,4 @@
-# Data-Structures-and-Algorithms
-My DSA Programs.
+# Data-Structures
 
 
 ***Directories:***
