@@ -255,3 +255,32 @@ int minKBitFlips(Queue<int> nums, int k)
     return flipsNeeded / window;
 
 }
+
+
+//TEST CASES:
+/*
+TEST(MinKBitFlipsTest, ProvidedExamples) {
+    Queue<int> nums1;
+    nums1.enqueue(0);
+    nums1.enqueue(1);
+    nums1.enqueue(0);
+    EXPECT_EQ(minKBitFlips(nums1, 1), 2);
+
+    Queue<int> nums2;
+    nums2. enqueue(1);
+    nums2. enqueue(1);
+    nums2. enqueue(0);
+    EXPECT_EQ(minKBitFlips(nums2, 2), -1);
+
+    Queue<int> nums3;
+    nums3.enqueue(0);
+    nums3.enqueue(0);
+    nums3.enqueue(0);
+    nums3.enqueue(1);
+    nums3.enqueue(0);
+    nums3.enqueue(1);
+    nums3.enqueue(1);
+    nums3.enqueue(0);
+    EXPECT_EQ(minKBitFlips(nums3, 3), 3);
+}
+*/
