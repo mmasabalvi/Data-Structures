@@ -12,6 +12,9 @@
 
 **4. Stacks**
 
-**5. BSTs**
+**5. Binary Search Trees**
 
 **6. AVLs**
+
+**7. Graphs**
+
