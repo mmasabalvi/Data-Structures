@@ -1,4 +1,4 @@
-#Enchanted Labyrinth Explorer - The Game using SFML
+Enchanted Labyrinth Explorer - The Game using SFML
 
 1. AVL Tree for Inventory Management
 2. Maze Generation Algorithm - Depth First
